@@ -1,6 +1,6 @@
 ## Question 4
 
-Compute and print 457 degrees Kelvin to degrees Fahrenheit.
+Compute and print 157 degrees Kelvin to degrees Fahrenheit.
 
 Compilation Steps:  
 
